@@ -1,4 +1,4 @@
 export const env ={
    
-     api :"http://localhost:7000"
+     api :"https://notes-maker-backend.vercel.app"
      }
