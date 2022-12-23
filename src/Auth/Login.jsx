@@ -133,7 +133,7 @@ function Login() {
                         <strong>For Testing</strong>
                         <br />
                         <h6>Email: kirubaharan8878m@gmail.com</h6>
-                        <h6>Pass: 123456</h6>
+                        <h6>Pass: User@1234</h6>
                     </div>
                     </div>
                   </div>
