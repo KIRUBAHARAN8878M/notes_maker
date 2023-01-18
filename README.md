@@ -1,8 +1,4 @@
-<h2>NOTES MAKER MERN App</h2>
 
-<h4>Preview Slides of Our Notes Maker MERN App (personal dairy or Notes or memories creator)</h4>
-
-<h1>Welcome Makkaleee....!<h1/>
 <h3>Feel Free Check and Create Your Own Momories</h3>
 <a href="https://notes-maker-frontend.netlify.app">Click Me<a/>
 <br/>
